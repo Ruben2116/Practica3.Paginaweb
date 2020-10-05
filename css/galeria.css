@@ -1,0 +1,185 @@
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.m-galeria{
+    float: right;
+    padding-right: 2em;
+    padding-top: 10px;
+}
+.p-galeria{
+    width: 100%;
+    height: 70px;
+    background-color: midnightblue;
+}
+
+.m-galeria>a{
+    color: seashell;
+    text-decoration: none;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 3em;
+
+}
+
+.m-galeria>a:hover{
+    color: rgb(123, 153, 207);
+    font-size: larger;
+    font-weight: bolder;
+
+}
+
+
+
+.titulo{
+    float: left;
+    color: rgb(123, 153, 207);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img-D1{
+    position: absolute;
+    bottom: 288px;
+    left: 50px;
+}
+
+.Dest1{
+    width: 350px;
+    height: 225px;
+}
+
+.img-D2{
+    position: absolute;
+    bottom: 288px;
+    left: 525px;
+    
+}
+
+.Dest2{
+    width: 350px;
+    height: 225px;
+}
+.img-D3{
+    position: absolute;
+    bottom: 288px;
+    right:  50px;
+}
+
+.Dest3{
+    width: 350px;
+    height: 225px;
+}
+.img-D4{
+    position: absolute;
+    top: 450px;
+    left: 50px;
+}
+
+.Dest4{
+    width: 350px;
+    height: 225px;
+}
+
+.img-D5{
+    position: absolute;
+    top: 450px;
+    left: 525px;
+}
+
+.Dest5{
+    width: 350px;
+    height: 225px;
+}
+
+.img-D6{
+    position: absolute;
+    top: 450px;
+    right: 50px;
+}
+
+.Dest6{
+    width: 350px;
+    height: 225px;
+}
+
+.texto-D1{
+    position: absolute;
+    top: 320px;
+    left: 140px;   
+}
+
+.txtd1{
+   color: rgba(68, 101, 209, 0.575); 
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: larger;
+
+}
+
+.texto-D2{
+    position: absolute;
+    top: 320px;
+    left: 670px;   
+}
+
+.txtd2{
+    color: rgba(68, 101, 209, 0.575); 
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: larger;
+
+}
+.texto-D3{
+    position: absolute;
+    top: 320px;
+    right: 180px;;   
+}
+
+.txtd3{
+    color: rgba(68, 101, 209, 0.575); 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.texto-D4{
+    position: absolute;
+    top:  660px;
+    left: 120px;   
+}
+
+.txtd4{
+    color: rgba(68, 101, 209, 0.575); 
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: larger;
+
+}
+
+.texto-D5{
+    position: absolute;
+    top:  660px;
+    left: 610px;   
+}
+
+.txtd5{
+    color: rgba(68, 101, 209, 0.575); 
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: larger;
+
+    
+}
+
+.texto-D6{
+    position: absolute;
+    top:  660px;
+    right: 150px;   
+}
+
+.txtd6{
+    color: rgba(68, 101, 209, 0.575); 
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: larger;
+
+}
+
+
+

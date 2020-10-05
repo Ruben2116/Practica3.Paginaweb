@@ -1,0 +1,62 @@
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.m-contactos{
+    float: right;
+    padding-right: 2em;
+    padding-top: 10px;
+}
+.p-contactos{
+    width: 100%;
+    height: 70px;
+    background-color: midnightblue;
+}
+
+.m-contactos>a{
+    color: seashell;
+    text-decoration: none;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 3em;
+
+}
+
+.m-contactos>a:hover{
+    color: rgb(123, 153, 207);
+    font-size: larger;
+    font-weight: bolder;
+
+}
+
+
+.titulo{
+    float: left;
+    color: rgb(123, 153, 207);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.nom-ergo2{
+    position: absolute;
+    top: 100px;
+    left: 800px;
+    color: rgb(123, 153, 207);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.txt-mensaje{
+    width: 500px;
+    height: 500px;
+    
+}
+
+.nom-ergo{
+    
+    color: rgb(123, 153, 207);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
